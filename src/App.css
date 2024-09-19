@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.chat-box {
+  width: 50%;
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  height: 400px;
+  overflow-y: scroll;
+  background-color: #f9f9f9;
+}
+
+.user, .bot {
+  margin: 10px 0;
+}
+
+.user {
+  text-align: left;
+}
+
+.bot {
+  text-align: right;
+}
